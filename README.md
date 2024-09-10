@@ -1,3 +1,3 @@
-# forkify Project
+# forkify Project for learning
 
-Recipe application with custom recipe uploads.
+Recipe application.
